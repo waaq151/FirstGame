@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="E:\ue4\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
+    <None Include="E:\ue4\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{095782C9-65AC-4B2F-8783-9B08F8166910}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\IOS">
+      <UniqueIdentifier>{FC4B70B5-E20B-48A8-AA9D-C22D13C2FBEC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
+      <Filter>Private\IOS</Filter>
+    </ClCompile>
+    <Filter Include="Private\Linux">
+      <UniqueIdentifier>{B74782A1-D653-43AF-B110-ED88A6216A6F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
+      <Filter>Private\Linux</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{DE4DBFCD-D603-428C-BFAD-D3640C7225EF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{FC8D11CF-FC1E-4D5A-8B42-73049F7E7B0E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{325B3E50-A641-45CC-BF8B-A48BA4149387}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\SlateViewer\Public\SlateViewerApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

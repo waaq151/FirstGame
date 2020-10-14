@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="E:\ue4\Engine\Source\Programs\UnrealMultiUserServer\UnrealMultiUserServer.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{D68354A8-97E4-4C5A-BEC9-C9FB8AF0FCF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="E:\ue4\Engine\Programs\UnrealMultiUserServer\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="E:\ue4\Engine\Source\Programs\UnrealMultiUserServer\UnrealMultiUserServer.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{E996C999-3A72-4BE2-99A0-90D6B14A4A05}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\UnrealMultiUserServer\Private\UnrealMultiUserServer.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

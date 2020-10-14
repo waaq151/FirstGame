@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\DatasmithCADWorker.Target.cs" />
+    <None Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\DatasmithCADWorker.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{435F13CD-9361-4B4C-8D52-82D54E729DD1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\Private\DatasmithCADWorker.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\Private\DatasmithCADWorker.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\Private\DatasmithCADWorkerImpl.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\Private\DatasmithCADWorkerImpl.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{6ECB8881-A478-4E70-8EB3-0A885F8F1B80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{281A40B6-BBEE-4A75-A177-8C0C71AB8227}</UniqueIdentifier>
+    </Filter>
+    <None Include="E:\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithCADWorker\Resources\Windows\BlankProgram.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

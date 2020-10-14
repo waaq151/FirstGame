@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FA982FCD-4536-4180-B22A-A8B13FE2F39B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ShootGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

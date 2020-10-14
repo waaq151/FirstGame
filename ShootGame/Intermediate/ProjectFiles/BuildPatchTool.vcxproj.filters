@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A6F610E5-DD42-46C9-AC28-89F1C1F6EA98}</UniqueIdentifier>
+    </Filter>
+    <None Include="E:\ue4\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
+    <None Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{0DFE2EFD-DFAC-409E-964D-D4D00540F730}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolMode.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\ToolModes">
+      <UniqueIdentifier>{32D172D3-E20A-4C6A-BD98-8AE2CF6C7DFA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\ChunkDeltaOptimiseMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\CompactifyMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\DiffManifestMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\EnumerationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\MergeManifestMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PackageChunksMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\PatchGenerationMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\VerifyChunksMode.cpp">
+      <Filter>Private\ToolModes</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{9AE6DEAB-2759-443C-BF04-05D3128459C0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Public\Interfaces">
+      <UniqueIdentifier>{144ABA8A-E0E7-422A-9B6F-EB5F0EBCC4E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
+      <Filter>Public\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Public\ToolModes">
+      <UniqueIdentifier>{60E59990-8451-473C-87EA-307E1CF0EC7C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\ChunkDeltaOptimiseMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\CompactifyMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\DiffManifestMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\EnumerationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\MergeManifestMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PackageChunksMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\PatchGenerationMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\VerifyChunksMode.h">
+      <Filter>Public\ToolModes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

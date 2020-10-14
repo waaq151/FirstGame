@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="E:\ue4\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{0734D6E7-4211-469D-AA63-A509BAFBCA33}</UniqueIdentifier>
+    </Filter>
+    <None Include="E:\ue4\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="E:\ue4\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
+    <None Include="E:\ue4\Engine\Source\Programs\CrashReportClient\CrashReportClientEditor.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{EEE822BD-7956-421D-AB5E-1AAFA2ACF064}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientDefines.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\CrashReportClientStyle.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\MainLoopTiming.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\RecoveryService.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\RecoveryService.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\SCrashReportClient.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Linux">
+      <UniqueIdentifier>{79D564D8-4DD5-4DFA-A1F7-526B7D8AF859}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
+      <Filter>Private\Linux</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{DDE2CD14-9F49-4D99-A32D-D08857B06654}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{D3CAF8BA-99AC-4967-ACB7-CA1E0ACADDF3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{71316D92-8E31-425A-A8C9-073387528C30}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{6482829D-99D3-4F0C-BE24-250C69B2377C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Mac">
+      <UniqueIdentifier>{C0916EB1-6C3D-4764-9F91-6198488052AE}</UniqueIdentifier>
+    </Filter>
+    <None Include="E:\ue4\Engine\Source\Programs\CrashReportClient\Resources\Mac\Info.plist">
+      <Filter>Resources\Mac</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShootGame",
+			"Path": "F:\\FirstGame\\ShootGame\\Source\\ShootGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootGameEditor",
+			"Path": "F:\\FirstGame\\ShootGame\\Source\\ShootGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
